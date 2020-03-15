@@ -1,2 +1,3 @@
 # hello_world
 This is my first repository.
+I think i have to learn English diligently...
